@@ -1,0 +1,20 @@
+.game {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    width: 600px;
+}
+
+#pexeso {
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,0);
+    width: 20vw;
+    height: 5vh;
+    text-align: center;
+    font-weight: bold;
+    background: lightblue;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px gray;
+ 
+}
